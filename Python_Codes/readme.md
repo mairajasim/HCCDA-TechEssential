@@ -10,11 +10,11 @@ https://markdownguide.offshoot.io/cheat-sheet/
 
 This is my 1st file and folder
 
-[Go to the Cheat Sheet] (https://markdownguide.offshoot.io/cheat-sheet/)
+[ Go to the Cheat Sheet ] ( https://markdownguide.offshoot.io/cheat-sheet/ )
 
 This is my 1st file and folder
 ## Heading 2
 
-![Huawei](D:\Cloud Computing\pyton\image.jpg)
+![ Huawei ]( D:\Cloud Computing\pyton\image.jpg )
 
 ### Heading 3
