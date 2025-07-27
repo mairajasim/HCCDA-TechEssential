@@ -1,7 +1,7 @@
 # HCCDA-TechEssential
 Huawei Cloud computing Corvit-Huawei Training
 
-** Huawei Cloud Computing Tech Essentials**
+**Huawei Cloud Computing Tech Essentials**
 
 - Basic Knowledge of Huawei Eco system
 
