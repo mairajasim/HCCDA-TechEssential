@@ -18,3 +18,5 @@ Note: For details about the account information, see the upper part of the lab m
 **Step 1** Switch to the management console, and select the AP-Singapore region. In the left navigation pane, choose Service List > Networking > Virtual Private Cloud.
 
 ![Click On VPC](Images/2.jpg)
+
+![Click On VPC](Images/3.jpg)
