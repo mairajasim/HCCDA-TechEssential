@@ -14,4 +14,7 @@ This is my 1st file and folder
 
 This is my 1st file and folder
 ## Heading 2
+
+![Huawei](D:\Cloud Computing\pyton\image.jpg)
+
 ### Heading 3
