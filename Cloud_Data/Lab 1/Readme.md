@@ -12,7 +12,8 @@ An enterprise intends to deploy their website on HUAWEI CLOUD and they have the 
 Note: For details about the account information, see the upper part of the lab manual. Do not use your HUAWEI CLOUD account to log in.
 
 **1.Tasks**
-1.1 Creating a VPC
+
+1.1 **Creating a VPC**
 **Step 1** Switch to the management console, and select the AP-Singapore region. In the left navigation pane, choose Service List > Networking > Virtual Private Cloud.
 
 ![Click On VPC](Images/2.jpg)
