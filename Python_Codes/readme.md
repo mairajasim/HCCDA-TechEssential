@@ -1,6 +1,8 @@
 This is my 1st file and folder
 # Heading 1
-**This is my 1st file and folder**
+**Bold text**
+
+*Itelic*
 
 This is my 1st file and folder
 
