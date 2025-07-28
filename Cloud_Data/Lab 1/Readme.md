@@ -27,3 +27,23 @@ Note: For details about the account information, see the upper part of the lab m
 
 ![Click On VPC](Images/6.jpg)
 
+![Click On VPC](Images/7.jpg)
+
+![Click On VPC](Images/8.jpg)
+
+![Click On VPC](Images/9.jpg)
+
+![Click On VPC](Images/10.jpg)
+
+![Click On VPC](Images/11.jpg)
+
+![Click On VPC](Images/12.jpg)
+
+![Click On VPC](Images/13.jpg)
+
+![Click On VPC](Images/14.jpg)
+
+![Click On VPC](Images/15.jpg)
+
+![Click On VPC](Images/16.jpg)
+
