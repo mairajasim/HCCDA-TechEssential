@@ -47,3 +47,81 @@ Note: For details about the account information, see the upper part of the lab m
 
 ![Click On VPC](Images/16.jpg)
 
+![Click On VPC](Images/17.jpg)
+
+![Click On VPC](Images/18.jpg)
+
+![Click On VPC](Images/19.jpg)
+
+![Click On VPC](Images/20.jpg)
+
+![Click On VPC](Images/21.jpg)
+
+![Click On VPC](Images/22.jpg)
+
+![Click On VPC](Images/23.jpg)
+
+![Click On VPC](Images/24.jpg)
+
+![Click On VPC](Images/25.jpg)
+
+![Click On VPC](Images/26.jpg)
+
+![Click On VPC](Images/27.jpg)
+
+![Click On VPC](Images/28.jpg)
+
+![Click On VPC](Images/29.jpg)
+
+![Click On VPC](Images/30.jpg)
+
+![Click On VPC](Images/31.jpg)
+
+![Click On VPC](Images/32.jpg)
+
+![Click On VPC](Images/33.jpg)
+
+![Click On VPC](Images/34.jpg)
+
+![Click On VPC](Images/35.jpg)
+
+![Click On VPC](Images/36.jpg)
+
+![Click On VPC](Images/37.jpg)
+
+![Click On VPC](Images/38.jpg)
+
+![Click On VPC](Images/39.jpg)
+
+![Click On VPC](Images/40.jpg)
+
+![Click On VPC](Images/41.jpg)
+
+![Click On VPC](Images/42.jpg)
+
+![Click On VPC](Images/43.jpg)
+
+![Click On VPC](Images/44.jpg)
+
+![Click On VPC](Images/45.jpg)
+
+![Click On VPC](Images/46.jpg)
+
+![Click On VPC](Images/47.jpg)
+
+![Click On VPC](Images/48.jpg)
+
+![Click On VPC](Images/49.jpg)
+
+![Click On VPC](Images/50.jpg)
+
+![Click On VPC](Images/51.jpg)
+
+![Click On VPC](Images/52.jpg)
+
+![Click On VPC](Images/53.jpg)
+
+![Click On VPC](Images/54.jpg)
+
+
+
